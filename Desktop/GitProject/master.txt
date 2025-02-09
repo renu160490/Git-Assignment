@@ -1,2 +1,0 @@
-Initial content for master.txt
-updated content to master.txt on private branch
